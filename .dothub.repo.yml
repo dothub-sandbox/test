@@ -28,7 +28,7 @@ labels:
   wontfix:
     color: ffffff
 options:
-  description: "Test sample2"
+  description: "Test sample3"
   has_downloads: true
   has_issues: true
   has_wiki: true
